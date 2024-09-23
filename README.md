@@ -64,3 +64,10 @@
 Now you can use Robot Framework by running the command:
 ```bash
 robot --version
+```
+
+## Remark 
+In the future, If you want to upgrade library you can running the command in directory:
+```bash
+pip install --upgradebe  .
+```
